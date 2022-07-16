@@ -1,6 +1,6 @@
 ---
 title: thanks for subscribing!
-permalink: /about.html
+permalink: /thanks.html
 ---
 
 Thanks for subscribing! You'll get email updates when I publish new posts :)
