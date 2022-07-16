@@ -1,6 +1,6 @@
 ---
 title: "minimum viable blog post"
-date: 2022-07-10
+date: 2022-07-10 
 ---
 What would the shortest possible blog post (in word count, time spent producing, and time spent reading) look like?
 
