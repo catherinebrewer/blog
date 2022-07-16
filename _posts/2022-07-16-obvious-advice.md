@@ -2,7 +2,7 @@
 title: "obvious advice"
 date: 2022-07-16
 ---
-**Summary**: giving obvious advice is the next step up from [rubber ducking](https://en.wikipedia.org/wiki/Rubber_duck_debugging). It can be surprisingly useful.
+**Summary**: giving obvious advice is the next step up from [rubber ducking](https://en.wikipedia.org/wiki/Rubber_duck_debugging). It can be surprisingly useful. Here's some pieces of it that I like.
 
 ***
 
