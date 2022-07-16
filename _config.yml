@@ -1,6 +1,5 @@
 theme: minima
-minima:
-  skin: dark
+skin: dark
 title: catherine's blog
 # author: catherine brewer
 # description: 
