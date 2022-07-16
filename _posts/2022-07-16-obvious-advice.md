@@ -53,7 +53,7 @@ So, a list of obvious advice I've found helpful to give and/or receive. You're a
 # Taking action
 - [Have you tried actually solving the problem?](https://chanamessinger.com/blog/what-rationality-can-do-for-ea-talk-at-ea-oxford)
 - [How much is your time worth?](https://programs.clearerthinking.org/what_is_your_time_really_worth_to_you.html#.YtM081TMJPZ)
-- [Can you delegate](https://www.lesswrong.com/posts/ZpDnRCeef2CLEFeKM/money-the-unit-of-caring) [or outsource this](https://www.lesswrong.com/posts/KuFSkLwhSkEZJYALE/collating-widely-available-time-money-trades) ?
+- [Can you delegate](https://www.lesswrong.com/posts/ZpDnRCeef2CLEFeKM/money-the-unit-of-caring) [or outsource this](https://www.lesswrong.com/posts/KuFSkLwhSkEZJYALE/collating-widely-available-time-money-trades)?
 - What happens if you don’t do this?
 - How could you [systematise](https://www.neelnanda.io/blog/mini-blog-post-19-on-systems-living-a-life-of-zero-willpower) this?
 - What are you bottlenecked by?
