@@ -42,7 +42,7 @@ So, a list of obvious advice I've found helpful to give and/or receive. You're a
 - What’s the counterfactual?
 	- Relatedly: what’s the opportunity cost?
 - If things don’t work out well, would you still endorse past-you having tried it?
-	- Alternatively: does this seem [ex ante worth doing](https://www.neelnanda.io/blog/46-bets-v-outcomes?
+	- Alternatively: does this seem [ex ante worth doing](https://www.neelnanda.io/blog/46-bets-v-outcomes)?
 - Imagine a top-percentile outcome. What had to happen to get to this outcome?
 
 # Making decisions
