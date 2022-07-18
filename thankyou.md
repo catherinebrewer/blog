@@ -3,4 +3,4 @@ title: thanks for subscribing!
 permalink: /thanks.html
 ---
 
-Thanks for subscribing! You'll get email updates when I publish new posts :)
+You should get an email with a link to subscribe. If you do, you'll get emails when I publish new posts :)
