@@ -6,7 +6,7 @@ date: 2022-07-16
 
 ***
 
-First, some caveats! I'm young and my life isn't going astoundingly well or anything and I am *totally* unqualified to write this post. But writing anything substantive is hard and scary, and some of these questions have been so useful (and so surprisingly useful!) for me, that it felt bad not to share them.
+First, some caveats! I'm young and my life isn't going astoundingly well or anything and I am *totally* unqualified to write this post. But writing anything substantive is hard and scary, and some of these questions have been so useful (and so surprisingly useful!) for me that it felt bad not to share them.
 
 Second caveat: most of these questions are borrowed from or inspired by other people. In particular, I found some [ESPR](https://www.espr-camp.org/) classes a really helpful source. The points where I haven't credited anyone in particular should be taken as a sign of my uncertainty over where I first heard them and who originated specific ideas, rather than a claim that they're original.
 
