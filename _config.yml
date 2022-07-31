@@ -22,3 +22,6 @@ plugins:
   - jekyll-seo-tag
 
 permalink: none
+
+kramdown:
+    auto_ids: true
